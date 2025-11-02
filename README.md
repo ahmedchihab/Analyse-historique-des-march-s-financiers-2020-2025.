@@ -22,11 +22,5 @@ Fonctionnalités clés :
 - Visualisation professionnelle avec **Matplotlib** et **Plotly**.  
 - Génération automatique d’interprétations financières type rapport d’analyste.
 
----
 
-## ⚙️ Installation
 
-1. Clonez le dépôt :
-```bash
-git clone <URL_DE_VOTRE_DEPOT>
-cd nom_du_projet
